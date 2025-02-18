@@ -20,4 +20,4 @@ subtrahend = int(input("Enter an integer to subtract: "))
 answer2 = addend1 + addend2 - subtrahend
 
 # display answer to user
-print(f"{addend1} + {addend2} - {subtrahend} is equal to {answer1}")
+print(f"{addend1} + {addend2} - {subtrahend} is equal to {answer2}")
